@@ -1,0 +1,24 @@
+From 89756431f988b981e1df4d5bd80b5c5903a9d3f1 Mon Sep 17 00:00:00 2001
+From: diegologuer <diego.loguer@gmail.com>
+Date: Mon, 2 Oct 2023 11:17:54 -0600
+Subject: [PATCH] modified last 2 lines of firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index c05b904..6365315 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ Cras rutrum turpis vitae nisl auctor, vel aliquet risus aliquet.
+ Aenean ultricies dolor vel neque egestas pellentesque.
+ Suspendisse maximus eros quis cursus tempor.
+ Praesent in arcu scelerisque, tincidunt orci id, varius erat.
+-Curabitur at dolor sodales, placerat justo at, dictum turpis.
+-Duis mattis nisi eget lorem iaculis, at iaculis arcu tristique.
++Lorem ipsum dolor sit amet, consectetur adipiscing elit.
++Sed congue nibh id pulvinar rutrum.
+-- 
+2.42.0.windows.2
+
